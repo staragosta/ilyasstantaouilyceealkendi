@@ -1,0 +1,25 @@
+.img{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.imgg{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top:20px;
+}
+.h1{
+    font-size: 30px;
+    color: #f0f0f0;
+    text-align: center;
+}
+.h2{
+    font-size: 20px;
+    color:aqua;
+    text-align: left;
+}
